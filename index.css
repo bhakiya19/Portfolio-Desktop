@@ -1,0 +1,1013 @@
+.desktop1-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+.desktop1-desktop1 {
+  width: 100%;
+  height: 6073px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-image: linear-gradient(180deg, rgba(18, 30, 60, 1) 0%, rgba(112, 16, 128, 1) 100%);
+}
+.desktop1-aboutsection {
+  top: 942px;
+  left: 0px;
+  width: 1550px;
+  height: 1266px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(27, 7, 60, 1);
+}
+.desktop1-text {
+  left:575px;;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 38px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-ellipse2 {
+  top: 98px;
+  left: 508px;
+  width: 292px;
+  height: 300px;
+  position: absolute;
+}
+.desktop1-text02 {
+  top: 396px;
+  left: 40px;
+  color: rgba(255, 255, 255, 1);
+  width: 1411px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-vector {
+  top: 833.85107421875px;
+  left: 629px;
+  width: 70px;
+  height: 69px;
+  position: absolute;
+}
+.desktop1-vector1 {
+  top: 1048.4965209960938px;
+  left: 629px;
+  width: 70px;
+  height: 69px;
+  position: absolute;
+}
+.desktop1-text04 {
+  top: 555px;
+  left: 545px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text06 {
+  top: 682px;
+  left: 349px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text08 {
+  top: 919px;
+  left: 571px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text10 {
+  top: 1107px;
+  left: 572px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text12 {
+  top: 759px;
+  left: 285px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text14 {
+  top: 970px;
+  left: 332px;
+  color: rgba(255, 255, 255, 1);
+  width: 728px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text16 {
+  top: 1184px;
+  left: 332px;
+  color: rgba(255, 255, 255, 1);
+  width: 728px;
+  height: auto;
+  position: absolute;
+  font-size: 26px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-skill-section {
+  top: 2208px;
+  left: 0px;
+  width: 1540px;
+  height: 1010px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-color: rgba(16, 15, 59, 1);
+}
+.desktop1-text18 {
+  top: 41px;
+  left: 618px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text20 {
+  top: 154px;
+  left: 69px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text22 {
+  top: 254px;
+  left: 69px;
+  color: rgba(255, 255, 255, 1);
+  width: 1342px;
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame131 {
+  gap: 10px;
+  top: 540px;
+  left: 69px;
+  width: 189px;
+  height: 220px;
+  display: flex;
+  padding: 3px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 20px;
+  justify-content: center;
+
+}
+.desktop1-frame14 {
+  top: 540px;
+  left: 357px;
+  width: 177px;
+  height: 212px;
+  position: absolute;
+}
+.desktop1-frame15 {
+  top: 540px;
+  left: 630px;
+  width: 177px;
+  height: 212px;
+  position: absolute;
+}
+.desktop1-frame16 {
+  top: 540px;
+  left: 920px;
+  width: 177px;
+  height: 212px;
+  position: absolute;
+}
+.desktop1-frame17 {
+  top: 540px;
+  left: 1206px;
+  width: 177px;
+  height: 212px;
+  position: absolute;
+}
+.desktop1-languagejavascript {
+  top: 752px;
+  left: 975px;
+  width: 24px;
+  height: 24px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop1-frame21 {
+  top: 842px;
+  left: 627px;
+  width: 183px;
+  height: 72px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 25px;
+  background-color: rgba(255, 255, 255, 1);
+}
+.desktop1-text24 {
+  left: 16px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-project {
+  top: 3218px;
+  left: 0px;
+  width: 1540px;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-image: linear-gradient(0deg, rgba(105, 48, 162, 1) 0%, rgba(66, 69, 143, 0) 58%);
+}
+.desktop1-text26 {
+  top: 34px;
+  left: 619px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 38px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-ellipse11 {
+  top: 213px;
+  left: 86px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.desktop1-ellipse12 {
+  top: 213px;
+  left: 562px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.desktop1-ellipse13 {
+  top: 213px;
+  left: 1036px;
+  width: 20px;
+  height: 20px;
+  position: absolute;
+}
+.desktop1-text28 {
+  top: 174px;
+  left: 120px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 38px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text30 {
+  top: 174px;
+  left: 605px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 38px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text32 {
+  top: 168px;
+  left: 1088px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 38px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text34 {
+  top: 233px;
+  left: 120px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text36 {
+  top: 239px;
+  left: 573px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 30px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text38 {
+  top: 233px;
+  left: 1020px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Medium;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 500;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle1 {
+  top: 432px;
+  left: 24px;
+  width: 448px;
+  height: 396px;
+  position: absolute;
+  border-radius: 20px;
+}
+.desktop1-rectangle2 {
+  top: 432px;
+  left: 502px;
+  width: 448px;
+  height: 396px;
+  position: absolute;
+  border-radius: 20px;
+}
+.desktop1-rectangle3 {
+  top: 432px;
+  left: 980px;
+  width: 448px;
+  height: 396px;
+  position: absolute;
+  border-radius: 20px;
+}
+.desktop1-area {
+  top: 4242px;
+  left: 0px;
+  width: 1440px;
+  height: 1024px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  background-image: linear-gradient(75deg, rgba(175, 39, 72, 0.6200000047683716) 0%, rgba(39, 102, 175, 0) 100%);
+}
+.desktop1-text40 {
+  top: 75px;
+  left: 500px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 38px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-rectangle4 {
+  top: 275px;
+  left: 33px;
+  width: 382px;
+  height: 373px;
+  position: absolute;
+}
+.desktop1-rectangle5 {
+  top: 275px;
+  left: 535px;
+  width: 382px;
+  height: 373px;
+  position: absolute;
+}
+.desktop1-rectangle6 {
+  top: 275px;
+  left: 1020px;
+  width: 382px;
+  height: 373px;
+  position: absolute;
+}
+.desktop1-frame18 {
+  top: 742px;
+  left: 33px;
+  width: 373px;
+  height: 77px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 15px;
+  background-color: rgba(212, 54, 54, 1);
+}
+.desktop1-text42 {
+  top: 5px;
+  left: 51px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame19 {
+  top: 742px;
+  left: 535px;
+  width: 373px;
+  height: 77px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 15px;
+  background-color: rgba(212, 54, 54, 1);
+}
+.desktop1-text44 {
+  top: 5px;
+  left: 73px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame20 {
+  top: 742px;
+  left: 1020px;
+  width: 383px;
+  height: 77px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  border-radius: 15px;
+  background-color: rgba(212, 54, 54, 1);
+}
+.desktop1-text46 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 28px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-contact {
+  top: 1023px;
+  left: 0px;
+  width: 1440px;
+  height: 803px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop1-contact1 {
+  top: 9px;
+  left: 0px;
+  width: 1440px;
+  height: 803px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop1-text48 {
+  top: 5325px;
+  left: 520px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  font-size: 38px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-vector2 {
+  top: 5537px;
+  left: 191px;
+  width: 163px;
+  height: 162px;
+  position: absolute;
+}
+.desktop1-vector3 {
+  top: 5558px;
+  left: 1007px;
+  width: 133px;
+  height: 133px;
+  position: absolute;
+}
+.desktop1-vector4 {
+  top: 5558px;
+  left: 635px;
+  width: 120px;
+  height: 120px;
+  position: absolute;
+}
+.desktop1-portfolio {
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 942px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop1-text50 {
+  top: 38px;
+  left: 70px;
+  color: rgba(255, 255, 255, 1);
+  width: 290px;
+  height: auto;
+  position: absolute;
+  font-size: 34px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame1 {
+  gap: 10px;
+  top: 46px;
+  left: 654px;
+  width: 87px;
+  height: 58px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: rgba(52, 152, 165, 1);
+}
+.desktop1-text52 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame2 {
+  gap: 10px;
+  top: 46px;
+  left: 820px;
+  width: 88px;
+  height: 58px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: rgba(52, 152, 165, 1);
+}
+.desktop1-text54 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame4 {
+  gap: 10px;
+  top: 49px;
+  left: 1133px;
+  width: 101px;
+  height: 58px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: rgba(52, 152, 165, 1);
+}
+.desktop1-text56 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame6 {
+  gap: 10px;
+  top: 49px;
+  left: 1287px;
+  width: 108px;
+  height: 58px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: rgba(52, 152, 165, 1);
+}
+.desktop1-text58 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame5 {
+  gap: 10px;
+  top: 49px;
+  left: 985px;
+  width: 71px;
+  height: 58px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: center;
+  flex-shrink: 0;
+  border-radius: 16px;
+  justify-content: center;
+  background-color: rgba(52, 152, 165, 1);
+}
+.desktop1-text60 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-home {
+  top: 130px;
+  left: 0px;
+  width: 1440px;
+  height: 812px;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+}
+.desktop1-text62 {
+  top: 115px;
+  left: 81px;
+  color: rgba(255, 255, 255, 1);
+  width: 254px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Regular;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 400;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text64 {
+  top: 225px;
+  left: 81px;
+  color: rgba(255, 255, 255, 1);
+  width: 254px;
+  height: auto;
+  position: absolute;
+  font-size: 24px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-text66 {
+  top: 165px;
+  left: 81px;
+  color: rgba(255, 255, 255, 1);
+  width: 274px;
+  height: auto;
+  position: absolute;
+  font-size: 25px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame61 {
+  top: 244px;
+  left: 218px;
+  width: 218px;
+  height: 100%;
+  display: flex;
+  overflow: hidden;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+
+
+}
+.desktop1-text68 {
+  display: inline-block;
+  color: rgba(60, 168, 202, 1);
+  font-size: 25px;
+  font-family: Inknut Antiqua;
+  border-right: 5px solid;
+  width: 100%;
+  white-space: nowrap;
+  overflow: hidden;
+  animation: typing 3s alternate;
+  animation-iteration-count: infinite;
+  animation-fill-mode: backwards;
+  
+}
+.desktop1-text68 span{
+  position: relative;
+}
+.desktop1-text68 span::after{
+  content: "";
+  position: absolute;
+  left: 0;
+  height: 100%;
+  right: 0;
+}
+
+@keyframes typing {
+  from{width: 0%;}
+}
+
+.desktop1-text70 {
+  top: 285px;
+  left: 79px;
+  color: rgba(255, 255, 255, 1);
+  width: 732px;
+  height: auto;
+  position: absolute;
+  font-size: 18px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Inknut Antiqua;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame7 {
+  gap: 10px;
+  top: 720px;
+  left: 245px;
+  width: 165px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: rgba(57, 210, 219, 1);
+}
+.desktop1-text75 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 18px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-frame9 {
+  gap: 10px;
+  top: 720px;
+  left: 482px;
+  width: 120px;
+  display: flex;
+  padding: 10px;
+  position: absolute;
+  align-items: center;
+  border-radius: 10px;
+  justify-content: center;
+  background-color: rgba(57, 210, 219, 1);
+}
+.desktop1-text77 {
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  font-size: 20px;
+  font-style: ExtraBold;
+  text-align: left;
+  font-family: Poppins;
+  font-weight: 800;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.desktop1-ellipse1 {
+  top: 225px;
+  left: 1022px;
+  width: 265px;
+  height: 280px;
+  position: absolute;
+}
